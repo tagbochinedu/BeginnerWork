@@ -1,2 +1,2 @@
 # BeginnerWork
-first set of projects
+First Ever Project
