@@ -1,2 +1,2 @@
 # BeginnerWork
-First Ever Project
+prjct1.netlify.app
